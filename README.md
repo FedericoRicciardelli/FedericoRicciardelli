@@ -23,7 +23,7 @@ I hold a degree in Quantitative Finance, a field that perfectly marries my love 
 ### 📫 Connect with Me
 
 I am always open to connecting with like-minded professionals and exploring new opportunities. Feel free to reach out to me through the following channels:
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/federico-ricciardelli-28b10766)
 - [Twitter](https://twitter.com/your-profile)
 - [Email](mailto:your.email@example.com)
 
