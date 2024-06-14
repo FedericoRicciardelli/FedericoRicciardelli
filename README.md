@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Federico Ricciardelli 👋
 
 ![Curious Gif](https://media.giphy.com/media/l41lVSYAXlE5Y2u3O/giphy.gif)
 
