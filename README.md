@@ -2,10 +2,7 @@
 
 ## About Me
 
-Welcome to my GitHub profile! I am a passionate data scientist and economist with a profound interest in the intricate world of modeling and their real-world applications. With a degree in Quantitative Finance, I have dedicated several years of my career to the insurance sector, where I leverage my expertise to uncover insights and drive strategic decisions.
-
-![Typing Fast](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo5Z21rbDlrc3VjZjg4MHd0bjZhdWp5OW9ndTZnb3ZicmdrOXM1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13GIgrGdslD9oQ/giphy.gif)
-
+**Welcome to my GitHub profile!** I am a passionate data scientist and economist with a profound interest in the intricate world of modeling and their real-world applications. With a degree in Quantitative Finance, I have dedicated several years of my career to the insurance sector, where I leverage my expertise to uncover insights and drive strategic decisions.
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo5Z21rbDlrc3VjZjg4MHd0bjZhdWp5OW9ndTZnb3ZicmdrOXM1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13GIgrGdslD9oQ/giphy.gif" alt="Typing Fast">
@@ -27,8 +24,12 @@ I hold a degree in Quantitative Finance, a field that perfectly marries my love 
 ### 📫 Connect with Me
 
 I am always open to connecting with like-minded professionals and exploring new opportunities. Feel free to reach out to me through the following channels:
+
 - [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/federico-ricciardelli-28b10766)
 - [Twitter](https://twitter.com/your-profile)
 - [Email](mailto:your.email@example.com)
 
-![Learning Gif](https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif)
+
+[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/11772171/ilricciardelli)
+&nbsp;
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/federico-ricciardelli-28b10766/)
