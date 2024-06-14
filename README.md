@@ -25,13 +25,12 @@ I hold a degree in Quantitative Finance, a field that perfectly marries my love 
 
 I am always open to connecting with like-minded professionals and exploring new opportunities. Feel free to reach out to me through the following channels:
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/federico-ricciardelli-28b10766)
-- [Twitter](https://twitter.com/your-profile)
-- [Email](mailto:your.email@example.com)
+<a href="mailto:federico.ricciardelli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/federico-ricciardelli-28b10766/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a href="https://github.com/FedericoRicciardelli" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
-
-[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/11772171/ilricciardelli)
-&nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/federico-ricciardelli-28b10766/)
-<a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<!-- 
+<a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+-->
 
