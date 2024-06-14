@@ -1,10 +1,13 @@
 # Hi there, I'm Federico Ricciardelli 👋
 
-![Curious Gif](https://media.giphy.com/media/l41lVSYAXlE5Y2u3O/giphy.gif)
-
 ## About Me
 
 Welcome to my GitHub profile! I am a passionate data scientist and economist with a profound interest in the intricate world of modeling and their real-world applications. With a degree in Quantitative Finance, I have dedicated several years of my career to the insurance sector, where I leverage my expertise to uncover insights and drive strategic decisions.
+
+![Curious Gif](https://media.giphy.com/media/l41lVSYAXlE5Y2u3O/giphy.gif)
+
+![Jim Carrey Typing Fast](https://giphy.com/gifs/fast-typing-bruce-almighty-jim-carrey-3oKIPsx2VAYAgEHC12)
+
 
 ### 💼 Professional Experience
 
