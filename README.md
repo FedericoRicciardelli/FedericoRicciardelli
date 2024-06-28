@@ -8,13 +8,13 @@
 
 One of my core beliefs is the importance of continuous learning. My curiosity drives me to constantly seek out new knowledge and skills. Whether it’s a new programming language, an emerging trend in data science, or the latest advancements in financial theory, I am always eager to expand my horizons. This perpetual quest for knowledge keeps me motivated and ensures that I am always at the forefront of my field.
 
-### 💼 Professional Experience
-
-Over the years, I have gained extensive experience in the insurance industry, a sector that constantly challenges me to apply my analytical skills in innovative ways. My role involves dissecting large datasets to identify patterns, assess risks, and provide actionable recommendations.
-
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo5Z21rbDlrc3VjZjg4MHd0bjZhdWp5OW9ndTZnb3ZicmdrOXM1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13GIgrGdslD9oQ/giphy.gif" alt="Typing Fast">
 </div>
+
+### 💼 Professional Experience
+
+Over the years, I have gained extensive experience in the insurance industry, a sector that constantly challenges me to apply my analytical skills in innovative ways. My role involves dissecting large datasets to identify patterns, assess risks, and provide actionable recommendations.
 
 ### 📚 Education
 
